@@ -7,7 +7,7 @@ Mentor:Neela Santhosh Kumar
 
 **Project Title:**
 "LED BLINKING WITH ARDUINO"
-
+![image alt](https://github.com/shobhana143/CODTECH-TASK1/blob/816b13d008be470f54f32a04135267ec24021d62/Screenshot%202024-12-17%20225942.png)
 
 
 ** Objective:**
