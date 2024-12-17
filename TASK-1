@@ -1,0 +1,14 @@
+/* blinking led */
+int myLedPin = 13;
+int myLedDelay = 1000;
+void setup()
+{
+  pinMode(myLedPin,OUTPUT);
+}
+void loop()
+{
+  digitalWrite(myLedPin,HIGH);
+  delay(myLedDelay);
+  digitalWrite(myLedPin,LOW);
+  delay(myLedDelay);
+}
